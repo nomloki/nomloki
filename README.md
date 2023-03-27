@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋, eu sou Luiz Fiuza</h1>
+<h1 align="center">👋 Olá!, eu sou Luiz Fiuza</h1>
 <h3 align="center">Estudante de Desenvolvimento de Sistemas na ETEC Sales Gomes</h3>
 
 <h3 align="left">Links:</h3>
