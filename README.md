@@ -11,7 +11,7 @@
 </p>
 <h1 align="center">Etatíscas:</h1>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nomloki&show_icons=true&theme=highcontrast&title_color=04ff00&text_color=fafafa&locale=pt-br" alt="nomloki" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nomloki&show_icons=true&theme=highcontrast&title_color=04ff00&text_color=fafafa&locale=pt-br" alt="nomloki" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nomloki&theme=highcontrast" alt="nomloki" />
 </p>
 &nbsp;
