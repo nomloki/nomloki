@@ -16,8 +16,7 @@
 </p>
 &nbsp;
 <p>
-  <h3 align="left">Links:</h3>
-<p align="right">
+<h3 align="left">Links:</h3>
 <a href="https://twitter.com/nomloki_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomloki_cs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luiz-fiuza06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz-fiuza06" height="30" width="40" /></a>
 <a href="https://instagram.com/@luizfiuza__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@luizfiuza__" height="30" width="40" /></a>
