@@ -1,6 +1,14 @@
 <h1 align="center">Olá! 👋, eu sou Luiz Fiuza</h1>
 <h3 align="center">Estudante de Desenvolvimento de Sistemas na ETEC Sales Gomes</h3>
 
+<h3 align="left">Links:</h3>
+<p align="left">
+<a href="https://twitter.com/nomloki_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomloki_cs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luiz-fiuza06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz-fiuza06" height="30" width="40" /></a>
+<a href="https://instagram.com/@luizfiuza__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@luizfiuza__" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@nomloki_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nomloki_cs" height="30" width="40" /></a>
+</p>
+
 <h1 align="center">Linguagens:</h1>
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nomloki&show_icons=true&theme=highcontrast&title_color=04ff00&text_color=ffffff&locale=en&layout=compact" alt="nomloki" />
@@ -13,11 +21,4 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nomloki&show_icons=true&theme=highcontrast&title_color=04ff00&text_color=fafafa&locale=pt-br" alt="nomloki" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nomloki&theme=highcontrast" alt="nomloki" />
-</p>
-<h3 align="left">Links:</h3>
-<p align="left">
-<a href="https://twitter.com/nomloki_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomloki_cs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luiz-fiuza06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz-fiuza06" height="30" width="40" /></a>
-<a href="https://instagram.com/@luizfiuza__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@luizfiuza__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@nomloki_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nomloki_cs" height="30" width="40" /></a>
 </p>
