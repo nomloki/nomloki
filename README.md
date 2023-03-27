@@ -15,7 +15,8 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nomloki&theme=highcontrast" alt="nomloki" />
 </p>
 &nbsp;
-<h3 align="left">Links:</h3>
+<p>
+  <h3 align="left">Links:</h3>
 <p align="right">
 <a href="https://twitter.com/nomloki_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomloki_cs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luiz-fiuza06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz-fiuza06" height="30" width="40" /></a>
