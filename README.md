@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá!, eu sou Luiz Fiuza</h1>
-<h3 style="color: green;" align="center">Estudante de Desenvolvimento de Sistemas na ETEC Sales Gomes</h3>
+<h3 align="center">Estudante de Desenvolvimento de Sistemas na ETEC Sales Gomes</h3>
 
 <h3 align="center">Links:</h3>
 <p align="center">
@@ -20,5 +20,5 @@
 <h1 align="center">Etatíscas:</h1>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nomloki&show_icons=true&theme=highcontrast&title_color=04ff00&text_color=fafafa&locale=pt-br" alt="nomloki" />
-<img with="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nomloki&theme=highcontrast" alt="nomloki" />
+<img width="40" height="40" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nomloki&theme=highcontrast" alt="nomloki" />
 </p>
