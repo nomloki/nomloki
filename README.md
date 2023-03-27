@@ -12,10 +12,8 @@
 <h1 align="center">Etatíscas:</h1>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nomloki&show_icons=true&theme=highcontrast&title_color=04ff00&text_color=fafafa&locale=pt-br" alt="nomloki" />
-&nbsp;
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nomloki&theme=highcontrast" alt="nomloki" />
 </p>
-&nbsp;
 <h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://twitter.com/nomloki_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomloki_cs" height="30" width="40" /></a>
