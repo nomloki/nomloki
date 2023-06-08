@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz Fiuza</h1>
 <h3 align="center">I like birds</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomloki&label=Profile%20views&color=0e75b6&style=flat" alt="nomloki" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomloki" alt="nomloki" /></a> </p>
-
 - 🔭 I’m currently working on **agendar.me**
 
 - 📫 How to reach me **luizffreitas2006@gmail.com**
